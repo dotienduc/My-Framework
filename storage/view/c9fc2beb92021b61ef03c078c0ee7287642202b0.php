@@ -1,0 +1,1 @@
+<h1>Hello world</h1><?php /**PATH C:\xampp\htdocs\Framework\app\view/index.blade.php ENDPATH**/ ?>

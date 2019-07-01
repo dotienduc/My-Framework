@@ -1,0 +1,1 @@
+<h1><?php echo e($data); ?></h1><?php /**PATH C:\xampp\htdocs\Framework\app\view\home/index.blade.php ENDPATH**/ ?>

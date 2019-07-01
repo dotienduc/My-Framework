@@ -1,0 +1,20 @@
+{
+	"name": "admin/framework",
+	"description": "framework",
+	"require": {
+		"jenssegers/blade": "^1.2",
+		"illuminate/database": "^5.8"
+	},
+	"config": {
+		"optimize-autoloader": true
+	},
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/"
+		},
+		"files": ["app/routers.php", "config/bootstrap.php"],
+		"classmap": [
+			"app/models"
+		]
+	}
+}
